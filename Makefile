@@ -1,2 +1,2 @@
 kompilacija:
-	gcc barbershop.c -lpthread  -o resenje
+	gcc barbershop_problem.c -lpthread  -o resenje
